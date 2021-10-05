@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 <h3 align="center">Currently learning and exploring new things.</h3>
 <h3 align="center"><b>Coder💻 || Web developer<img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="40px"></b></h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="70">
+</p>
+
+
 <br/>
 <hr>
 
