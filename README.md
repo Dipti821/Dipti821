@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipti821&label=Profile%20views&color=0e75b6&style=flat" alt="dipti821" /> </p>
 
-- 🌱 I’m currently learning **Web Development with Angular Specialization.**
+- 🌱 I’m currently learning **everything that comes in my way**
 
 - 💬 Ask me about **coding.**
 
